@@ -11,3 +11,8 @@ Hi, I'm [samo_lego](https://samolego.github.io/home) (or samolego as well). Depe
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samolego&layout=compact&&bg_color=001300&text_color=FFFAF2&title_color=C4FF00&icon_color=C4FF00)](https://github.com/anuraghazra/github-readme-stats)
 
 Coding from S:heart:nia.
+
+
+## Contributions
+
+![](https://github.com/samolego/samolego/blob/output/github-contribution-grid-snake-dark.svg)

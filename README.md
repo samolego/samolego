@@ -16,3 +16,9 @@ Coding from S:heart:nia.
 ## Contributions
 
 ![](https://github.com/samolego/samolego/blob/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="blob/output/github-contribution-grid-snake.svg" />
+</picture>
